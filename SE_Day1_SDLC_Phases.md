@@ -1,3 +1,1 @@
-**Phases of the Software Development Life Cycle (SDLC):**
-
-The phases include requirement analysis, design, implementation, testing, deployment, and maintenance.
+The phases of the Software Development Life Cycle (SDLC) include requirement gathering, system design, implementation, testing, deployment, and maintenance.
