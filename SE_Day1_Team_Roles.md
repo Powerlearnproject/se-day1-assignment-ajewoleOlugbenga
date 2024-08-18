@@ -1,3 +1,1 @@
-**Roles in a Software Engineering Team:**
-
-A Software Developer writes code, a Quality Assurance Engineer tests software, and a Project Manager oversees project timelines and resources.
+A Software Developer writes and maintains code. A Quality Assurance (QA) Engineer tests the software for bugs. A Project Manager coordinates the team and manages timelines and resources.
