@@ -1,0 +1,1 @@
+Unit testing checks individual components, integration testing ensures components work together, system testing validates the entire system, and acceptance testing confirms the system meets user requirements.

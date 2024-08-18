@@ -1,0 +1,1 @@
+Examples of software engineering projects include developing operating systems (e.g., Windows, macOS), web applications (e.g., Facebook, Google), mobile apps (e.g., Instagram, Uber), and embedded systems (e.g., automotive software, IoT devices).

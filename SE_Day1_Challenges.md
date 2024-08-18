@@ -1,0 +1,1 @@
+Common challenges include managing project scope, keeping up with technology trends, and ensuring code quality. Strategies to overcome these include clear communication, continuous learning, and rigorous testing.

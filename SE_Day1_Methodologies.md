@@ -1,0 +1,1 @@
+The Waterfall methodology is linear and sequential, best suited for projects with well-defined requirements. Agile, on the other hand, is iterative and flexible, ideal for projects with evolving requirements. For example, Waterfall is suitable for large government projects, while Agile is used in software startups.
